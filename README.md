@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Tip Calculator
 
-**Name of your app** is a tip calculator application for iOS.
+**Eazy Tip* is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: Dorian Holmes
 
-Time spent: **X** hours spent in total
+Time spent: 6 hours spent in total
 
 ## User Stories
 
@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [Setup of functions] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -43,7 +43,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2018] [Dorian Holmes]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
